@@ -1,0 +1,13 @@
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\bin\Debug\netcoreapp3.1\collections_dictionary.exe
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\bin\Debug\netcoreapp3.1\collections_dictionary.deps.json
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\bin\Debug\netcoreapp3.1\collections_dictionary.runtimeconfig.json
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\bin\Debug\netcoreapp3.1\collections_dictionary.runtimeconfig.dev.json
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\bin\Debug\netcoreapp3.1\collections_dictionary.dll
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\bin\Debug\netcoreapp3.1\collections_dictionary.pdb
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.csprojAssemblyReference.cache
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.AssemblyInfoInputs.cache
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.AssemblyInfo.cs
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.dll
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.pdb
+C:\Users\Techverx\source\repos\collections_dictionary\collections_dictionary\obj\Debug\netcoreapp3.1\collections_dictionary.genruntimeconfig.cache
